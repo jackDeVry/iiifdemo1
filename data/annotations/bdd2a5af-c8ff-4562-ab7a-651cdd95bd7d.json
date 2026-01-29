@@ -1,22 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 60,
-      "end_time": 90,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Chaos is occuring!"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "b9acc0e4-4544-42f1-bb11-05454b326c22"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "2e81921b-0f60-455d-abe9-c1f9ce38a143",
   "source_id": "338d2c0a-7a45-430a-a7aa-e9cbc9e6ec50"
